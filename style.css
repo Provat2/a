@@ -1,0 +1,107 @@
+body{
+    background-color: white;
+    margin-right: 5px;
+    margin-top: 10px;
+    padding-bottom: 500px;
+}
+h1{
+    color: rgb(2, 49, 175);
+    font-size: 70px;
+    text-align: center;
+    font-family: fantasy;
+}
+.af{
+    border: 2px solid red;
+    border-radius: 4px;
+    background-color: rgb(75, 78, 75);
+    font-size: 25px;
+    font-family: sans-serif;
+}
+a{
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+h2{
+    color: green;
+    font-size: 30px;
+    text-align: left;
+    font-family: monospace;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+img{
+   position: absolute;
+   left: 40%;
+   border: 5px solid orange;
+   border-radius: 30px;
+   padding-top: 20px;
+}
+h3{
+    color: red;
+    font-size: 25px;
+    font-family: fantasy;
+    padding-top: 20px;
+}
+li{
+    font-size: 20px;
+}
+.info{
+    font-size: 20px;
+    color: blue;
+}
+.aboutCamel{
+    padding-top: 20px;
+    padding-bottom: 250px;
+}
+.aboutChameleon{
+    padding-top: 20px;
+    padding-bottom: 250px;
+}
+.chameleon{
+    position: absolute;
+    top: 900px;
+}
+.aboutPigeon{
+    padding-top: 20px;
+    padding-bottom: 250px;
+}
+.pigeon{
+    position: absolute;
+    top: 1400px;
+}
+.aboutBear{
+    padding-top: 20px;
+    padding-bottom: 250px;
+}
+.bear{
+    position: absolute;
+    top: 1900px;
+}
+.aboutPanda{
+    padding-top: 40px;
+    padding-bottom: 250px;
+}
+.panda{
+    position: absolute;
+    top: 2400px;
+}
+.aboutCicada{
+    padding-top: 40px;
+    padding-bottom: 250px;
+}
+.cicada{
+    position: absolute;
+    top: 2900px;
+}
+.done{
+    background-color:rgb(75, 78, 75);
+    border: 2px solid blue;
+    border-radius: 6px;
+}
+h4{
+    font-size: 30px;
+    color: black;
+}
